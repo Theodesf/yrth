@@ -169,13 +169,6 @@ section > div{
     height: 100%;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-
-
-}
-.c64{
-    width: 64%;
-    background-color: ##8a8;
-}
 }
 .c85{
     width: 85%;
@@ -185,9 +178,9 @@ section > div{
     width: 90%;
     background-color: #4B8;
 }
-.c95{
-    width: 95%;
-    background-color: #4B8;
+.c64{
+    width: 64%;
+    background-color: ##8a8;
 }
 .c100{
     width: 100%;
